@@ -2,7 +2,6 @@
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
-  font-family: sans-serif;
 }
 
 a {
@@ -12,12 +11,4 @@ a {
 
 li {
   list-style: none;
-}
-.btns {
-  padding: 10px 20px;
-  margin-right: 6px;
-  background: transparent;
-  border: 0.6 solid #ccc;
-  color: 323232;
-  cursor: pointer;
 }
