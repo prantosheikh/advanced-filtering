@@ -9,7 +9,6 @@ const Sidebar = () => {
       <div className="logo-container">
         <h1>🛒</h1>
       </div>
-
       <Category />
       <Price />
       <Color />
